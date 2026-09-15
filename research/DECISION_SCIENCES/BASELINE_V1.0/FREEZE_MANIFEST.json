@@ -1,0 +1,18 @@
+{
+  "baseline": "The Book of Love Research Baseline v1.0",
+  "freeze_date": "2026-09-15",
+  "gate_1": "PASS",
+  "github_publication": "pending human push because direct connector create returned HTTP 403",
+  "files": [
+    "DECISION_SCIENCES_README_V1.0.md",
+    "DS-03_BASELINE_FREEZE_PROPOSAL.md",
+    "DS-03_CLAIMS_EVIDENCE_MATRIX.md",
+    "DS-03_FALSIFIABLE_PREDICTIONS.md",
+    "DS-03_METADATA.json",
+    "DS-03_REPRODUCIBILITY_CHECKLIST.md",
+    "DS-03_RESEARCH_LEDGER_ENTRY.md",
+    "DS-03_RESEARCH_PAPER_V0.1.md",
+    "DS-03_SOURCE_CITATION_AUDIT_V1.0.md",
+    "RESEARCH_BASELINE_V1.0.md"
+  ]
+}

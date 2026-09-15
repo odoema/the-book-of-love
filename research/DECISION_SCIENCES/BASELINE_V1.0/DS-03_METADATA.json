@@ -1,0 +1,14 @@
+{
+  "project": "The Book of Love",
+  "stream": "Decision Sciences",
+  "version": "DS-03 v0.1",
+  "status": "working research paper",
+  "files": [
+    "DS-03_RESEARCH_PAPER_V0.1.md",
+    "DS-03_CLAIMS_EVIDENCE_MATRIX.md",
+    "DS-03_FALSIFIABLE_PREDICTIONS.md",
+    "DS-03_REPRODUCIBILITY_CHECKLIST.md",
+    "DS-03_BASELINE_FREEZE_PROPOSAL.md",
+    "DS-03_RESEARCH_LEDGER_ENTRY.md"
+  ]
+}
